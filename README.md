@@ -36,3 +36,19 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/44708711/100903610-1db10a00-34ec-11eb-91e1-52481053a3b9.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/44708711/100903616-1f7acd80-34ec-11eb-8c44-ab60b70376ef.png"></code>
+
+
+<br />
+
+
+| | |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| ![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=nilaychauhan&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilaychauhan&theme=algolia) | ![Hackerrank](https://www.hackerrank.com/nilaychauhan0941)
+
+<br />
+
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/nilaychauhan "Github")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/nilay-chauhan-2756b4153/ "LinkedIn")
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/Nilay_S_Chauhan "Twitter")
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=blue&logo=kaggle&logoColor=white "Kaggle")](https://www.kaggle.com/nilaychauhan "Kaggle")
+[![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&labelColor=blue&logo=Medium&logoColor=white "Medium")](https://medium.com/data-stash "Medium")
