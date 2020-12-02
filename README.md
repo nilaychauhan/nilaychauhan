@@ -11,3 +11,7 @@
 - 👯 Looking for an **internship or opportunity.**
 - 💬 Ask me about: **I am always ready to help.**
 - 📫 How to reach me: **https://www.linkedin.com/in/nilay-chauhan-2756b4153/**
+
+<br />
+
+**[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
